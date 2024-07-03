@@ -32,4 +32,6 @@
     a. The divide function checks if the second number (num2) is zero to prevent division by zero errors.
     b. The main function checks if the user's input is valid (i.e., one of the choices 1, 2, 3, 4,). If not, it prints "Invalid operation entered"
 
+## RUN THE CODE :
+  For writing and running the code,I used an IDE(vs code),a text editor with Python support 
     
