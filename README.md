@@ -10,10 +10,9 @@
 
   ### PROJECT : The Simple Calculator
   ### OBJECTIVE :
-  Create a Python program that acts as a basic calculator. It should prompt the user to
-  enter two numbers and choose an operation (addition, subtraction, multiplication,
-  division). Then, it should perform the selected operation and display the result to the
-  user.
+  The objective of the project is to create a Python program that acts as a basic calculator. It should prompt the user to
+  It should prompt the user to enter two numbers and choose an operation (addition, subtraction, multiplication,
+  division). Then, it should perform the selected operation and display the result to the user.
 
 ## EXPLANATION OF CODE :
   ### 1.Main Function Of Calculator :
