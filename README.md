@@ -1,9 +1,9 @@
-# Name : SANKET YADAV
-# Company : CODTECH IT SOLUTIONS
-# ID :** CT04PP2312
-# Domain : PYTHON PROGRAMMING
-# Duration : 15th June 2024 to 15th July 2024
-# Mentor : SRAVANI GOUNI
+### Name : SANKET YADAV
+### Company : CODTECH IT SOLUTIONS
+### ID : CT04PP2312
+### Domain : PYTHON PROGRAMMING
+### Duration : 15th June 2024 to 15th July 2024
+### Mentor : SRAVANI GOUNI
 
 ## OVERVIEW OF THE PROJECT
 
