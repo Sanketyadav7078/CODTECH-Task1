@@ -1,5 +1,3 @@
-![Screenshot (596)](https://github.com/Sanketyadav7078/CODTECH-Task1/assets/168887923/406d1248-865d-4fbc-a878-4ca055fa72ed)
-![Screenshot (595)](https://github.com/Sanketyadav7078/CODTECH-Task1/assets/168887923/fccc018a-99e0-4bb2-b0f4-65cf85f1a261)
 ## PERSONAL DETAILS :
   #### Name : SANKET YADAV
   #### Company : CODTECH IT SOLUTIONS
@@ -35,4 +33,7 @@
 
 ## RUN THE CODE :
   For writing and running the code,I used an IDE(vs code),a text editor with Python support 
-    
+
+
+![Screenshot (596)](https://github.com/Sanketyadav7078/CODTECH-Task1/assets/168887923/406d1248-865d-4fbc-a878-4ca055fa72ed)
+![Screenshot (595)](https://github.com/Sanketyadav7078/CODTECH-Task1/assets/168887923/fccc018a-99e0-4bb2-b0f4-65cf85f1a261)
