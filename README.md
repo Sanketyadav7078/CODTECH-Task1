@@ -16,8 +16,8 @@
 
 ## EXPLANATION OF CODE :
   ### 1.MAIN FUNCTION OF CALCULATOR :
-    **a. Prints the available operations to the user.**
-    **b. Prompts the user to enter their choice of operation.**
+    a. Prints the available operations to the user.
+    b. Prompts the user to enter their choice of operation.
     **c. Validates the user's input to ensure it's one of the valid choices.**
     **d. Prompts the user to enter two numbers.**
     **e. Based on the user's choice, it calculates the recquired result and prints the result as output.**
